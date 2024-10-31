@@ -1,3 +1,3 @@
 - 👋 Hi , My Good Self is Maryam Ali Asghar 
 - I am working towards my Bachelor's Degree in Computer Engineering 
-- 🌱 I’m currently learning TS.
+- 🌱 I’m currently learning Web Development!
